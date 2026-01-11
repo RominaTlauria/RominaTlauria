@@ -12,5 +12,4 @@
 
 ### :zap: Actividad reciente
 <!-- RECENT_ACTIVITY:start -- >
-
 <1 -- RECENT_ACTIVITY:last_update -- >
