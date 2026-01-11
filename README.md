@@ -10,14 +10,6 @@
 
 ![website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FRominaTlauria%2FRominaTlauria.git)
 
-\### :zap: Actividad reciente
-
-\<!--START\_SECTION:activity-->
-
-\<!--END\_SECTION:activity-->
-
-
-
-\<!--RECENT\_ACTIVITY:start-->
-
-\<!--RECENT\_ACTIVITY:last\_update-->
+### :zap: Actividad reciente
+<!-- RECENT_ACTIVITY:start -- >
+<1 -- RECENT_ACTIVITY:last_update -- >
